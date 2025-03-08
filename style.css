@@ -1,0 +1,12 @@
+div p{
+    background-color: aquamarine;
+
+}
+h2 {
+    background-color:red;
+    padding: 12px;
+    border: 10px solid darkmagenta;
+}
+input [placeholder] {
+    margin: 20px 50px 30px 40px;
+}
